@@ -20,3 +20,9 @@ NA
 
 ## Usage
 
+<<<<<<< HEAD
+=======
+    ```md
+    ![Horiseon](assets/images/horiseon.png)
+    ```
+>>>>>>> 6ab3493b49289788ee4bc5cd7674d51675746474
